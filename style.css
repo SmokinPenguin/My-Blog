@@ -68,6 +68,21 @@ header ul {
   margin-top: 10%;
 }
 
+.keep h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #E20909;
+  text-shadow: 1px 1px black;
+  font-family: 'Potta One', cursive;
+}
+#topkeep {
+  padding-top: 12%;
+}
+#fuq {
+  padding-left: 33%;
+  height: 700px;
+}
+
 body {
   background-image: url("background.jpg");
 }
@@ -79,4 +94,5 @@ footer {
   left: 0;
   padding-top: 100%;
   margin-top: 25%;
+  color: white;
 }
