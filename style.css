@@ -1,0 +1,82 @@
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+  font-size: 210%;
+  position: relative;
+  color: #80FF00;
+  margin: 10px 10px 10px 5px;
+  padding-top: 60px;
+
+}
+nav li {
+  position: relative;
+  text-align: center;
+  background-color: black;
+  height: 52%;
+  background-size: cover;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  border-radius: 10%;
+}
+#chris {
+  border-radius: 5%;
+}
+
+header ul {
+  background-image: url("nav.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150px;
+
+}
+
+#red {
+  padding-top: 10%;
+  color: #FF0000;
+}
+
+#yellow {
+  color: #FFFF33;
+}
+
+#green{
+  color: #00ff00;
+}
+
+.front h1 {
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 1px 1px black;
+}
+
+#botparagraph {
+  padding-top: 10%;
+  color: #99FFFF;
+  text-shadow: .5px .5px black;
+}
+
+
+.frontpics img {
+  height: 450px;
+  float: left;
+  border-radius: 20%;
+  margin-left: 15%;
+  margin-top: 10%;
+}
+
+body {
+  background-image: url("background.jpg");
+}
+
+footer {
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  padding-top: 100%;
+  margin-top: 25%;
+}
