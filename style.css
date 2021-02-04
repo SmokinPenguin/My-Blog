@@ -1,3 +1,16 @@
+a:link {
+  color: #80FF00;
+}
+a:visited {
+  color: #750098;
+}
+a:hover {
+  color: #C400FF;
+}
+a:active {
+  color: #660099;
+}
+
 nav ul {
   list-style-type: none;
   display: flex;
